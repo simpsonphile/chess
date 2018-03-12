@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1496220744 source:/home/dawid/Dokumenty/cpp/szachyv2/figure.cpp
+	"figure.hpp"
+	<iostream>
+
+1496233885 source:/home/dawid/Dokumenty/cpp/szachyv2/game.cpp
+	"game.hpp"
+
+1496232558 /home/dawid/Dokumenty/cpp/szachyv2/game.hpp
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	"figure.hpp"
+	<string>
+	<iostream>
+	<unistd.h>
+
+1497439852 source:/home/dawid/Dokumenty/cpp/szachyv2/main.cpp
+	<iostream>
+	"game.hpp"
+	"figure.hpp"
+
+1496220595 /home/dawid/Dokumenty/cpp/szachyv2/figure.hpp
+	<SFML/Graphics.hpp>
+	<string>
+	<cstdlib>
+
